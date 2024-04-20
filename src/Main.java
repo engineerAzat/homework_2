@@ -3,6 +3,7 @@ public class Main {
 
         // первое задание
 
+        System.out.println("\nTask 1 \n");
         int a = 47513;
         byte b = -125;
         short c = 32767;
@@ -18,6 +19,7 @@ public class Main {
 
         // второе задание
 
+        System.out.println("\nTask 2 \n");
         float a1 = 27.12f;
         long b1 = 987678965549L;
         float c1 = 2.786f;
@@ -28,6 +30,7 @@ public class Main {
 
         // третье задание
 
+        System.out.println("\nTask 3 \n");
         byte lP = 23; // У Людмилы Павловны 23 ученика
         byte aS = 27; // у Анны Сергеевны 27 учеников
         byte eA = 30; // у Екатерины Андреевны 30 учеников
@@ -38,6 +41,7 @@ public class Main {
 
         // четвертое задание
 
+        System.out.println("\nTask 4 \n");
         byte productivityInOneMinute = 8; // Производительность машины 8 бутылок за одну минуту
         int productivityInTwentyMinutes = 20 * productivityInOneMinute;  // Производительность машины 8 бутылок за 20 минут
         int productivityInOneDay = 24 * 60 * productivityInOneMinute;  // Производительность машины 8 бутылок за сутки
@@ -50,6 +54,7 @@ public class Main {
 
         // пятое задание
 
+        System.out.println("\nTask 5 \n");
         byte totalColors = 120;  // Необходимое количество банок краски для ремонта всех классов
         byte witheColor = 2;  // Необходимое количество банок белой краски на один класс
         byte brownColor = 4;  // Необходимое количество банок черной краски на один класс
@@ -60,6 +65,7 @@ public class Main {
 
         // шестое задание
 
+        System.out.println("\nTask 6 \n");
         byte totalBananas = 5; // Общее количество бананов
         byte weightBananas = 80; // Вес банана
         short totalWeightBananas = (short) (totalBananas * weightBananas); // Общий вес бананов
@@ -79,6 +85,7 @@ public class Main {
 
         // Седьмое задание
 
+        System.out.println("\nTask 7 \n");
         byte excessWeightGr = 7; // Лишний вес спортсмена в кг
         short excessWeightKg = (short) (excessWeightGr * 1000);  // Лишний вес спортсмена в гр
         short minWeightOneDay = 250; // Минимальный вес который спортсмен может потерять в день в гр
@@ -92,6 +99,7 @@ public class Main {
 
         // Восьмое задание
 
+        System.out.println("\nTask 8 \n");
         int SalaryPerMonthMasha = 67760; // Зарплата Маши в месяц до повышения
         int SalaryPerYearMasha = (SalaryPerMonthMasha * 12); // Годовой доход Маши до повышения
         int SalaryPerYearMashaForPlusTenPercent = (int) (SalaryPerYearMasha + (SalaryPerYearMasha * 0.1)); // Годовой доход Маши после повышения на 10 процентов
